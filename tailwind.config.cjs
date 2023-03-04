@@ -11,6 +11,7 @@ module.exports = {
       success: "#009842",
       warning: "#ffd500",
       danger: "#c22c2c",
+      details: "#AFAFB7",
     },
     extend: {},
   },
